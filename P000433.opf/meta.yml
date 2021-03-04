@@ -1,9 +1,10 @@
-id: opecha:P000433
+id: P000433
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W10954
   title: གསུང་འབུམ། ཀུན་དགའ་དཔལ་འབྱོར
-  volume:
+  author: ''
+  volumes:
     2ea09bd3df994e87a239546eb595516a:
       image_group_id: I0836
       title: ''
@@ -14,7 +15,6 @@ source_metadata:
       title: ''
       volume_number: 2
       total_pages: 532
-  author: ''
 ebook_metadata:
   title: གསུང་འབུམ། ཀུན་དགའ་དཔལ་འབྱོར
   author: ''

@@ -1,5 +1,7 @@
 id: P000433
 initial_creation_type: ocr
+created_at: 21/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W10954
   title: གསུང་འབུམ། ཀུན་དགའ་དཔལ་འབྱོར
@@ -17,10 +19,3 @@ source_metadata:
       volume_number: 2
       total_pages: 532
       base_file: v002.txt
-ebook_metadata:
-  title: གསུང་འབུམ། ཀུན་དགའ་དཔལ་འབྱོར
-  author: ''
-  sku: P000433
-  cover: cover.jpg
-  layers:
-  - pagination
